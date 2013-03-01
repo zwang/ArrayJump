@@ -1,0 +1,7 @@
+Given an int array, the value in each element note the next index to jump. 
+Start from 0, calculate the number of jumps need to jump out of the array
+
+For example {-1} will return 1 jump
+{2,3,5,2} will require two jump from 0->2->5(out of array)
+
+This is a test from codility.com
